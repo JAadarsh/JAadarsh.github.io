@@ -7,6 +7,7 @@
 - [Credly Certification](https://www.credly.com/users/aadarsh-joshi.2e9099b8)
 - Getting Started with Cybersecurity
 - Cybersecurity Fundamentals
+
 ### Google Cybersecurity
 - TBD
 
