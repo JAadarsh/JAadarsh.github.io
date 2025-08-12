@@ -1,6 +1,10 @@
 # JAadarsh.github.io
 
-## Note: I am working on a few projects which may not be included here!
+## I am working on a few projects which may not be included here!
+
+## Contact
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/aadarsh-joshi-19060827b/))
+- [Personal Email](aadarshjoshijii@gmail.com)
 
 ## Self-Taught
 ### IBM Cybersecurity
@@ -8,7 +12,10 @@
 - Getting Started with Cybersecurity
 - Cybersecurity Fundamentals
 
-### Google Cybersecurity
+### IBM AI Developer Professional Certificate
+- TBD
+
+### Google Cybersecurity Professional Certificate
 - TBD
 
 ## I went to school!
