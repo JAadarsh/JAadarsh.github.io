@@ -3,8 +3,8 @@
 ## I am working on a few projects which may not be included here!
 
 ## Contact
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/aadarsh-joshi-19060827b/))
-- [Personal Email](aadarshjoshijii@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aadarsh-joshi-19060827b/)
+- Personal Email: aadarshjoshijii@gmail.com
 
 ## Self-Taught
 ### IBM Cybersecurity
