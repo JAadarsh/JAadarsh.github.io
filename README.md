@@ -2,4 +2,4 @@
 
 ## Who is this?
 - Late July, 2006
-- (~)75 degrees fahrenheit
+- ~75 degrees fahrenheit
